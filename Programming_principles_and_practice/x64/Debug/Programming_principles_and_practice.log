@@ -1,5 +1,5 @@
-﻿  my_caclulator.cpp
-C:\Users\hyunwoo\source\repos\Programming_principles_and_practice\Programming_principles_and_practice\my_caclulator.cpp(67,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hyunwoo\source\repos\Programming_principles_and_practice\Programming_principles_and_practice\my_caclulator.cpp(51,1): warning C4715: 'Token_stream::get': 모든 제어 경로에서 값을 반환하지는 않습니다.
-C:\Users\hyunwoo\source\repos\Programming_principles_and_practice\Programming_principles_and_practice\my_caclulator.cpp(86,1): warning C4715: 'primary': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  Programming_principles_and_practice.vcxproj -> C:\Users\hyunwoo\source\repos\Programming_principles_and_practice\x64\Debug\Programming_principles_and_practice.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(Programming_principles_and_practice.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  ex_06_04.cpp
+  my_caclulator.cpp
+  코드를 생성하고 있습니다...
+  Programming_principles_and_practice.vcxproj -> C:\Users\rlagu\source\repos\programming_principles_and_practice_usingcpp\x64\Debug\Ch06.exe
