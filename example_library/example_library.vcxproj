@@ -18,6 +18,11 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="caculator02buggy.cpp" />
+    <ClCompile Include="calculator00.cpp" />
+    <ClCompile Include="calculator01.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,11 +131,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\Programming_principles_and_practice\caculator02buggy.cpp" />
-    <ClCompile Include="..\Programming_principles_and_practice\calculator00.cpp" />
-    <ClCompile Include="..\Programming_principles_and_practice\calculator01.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

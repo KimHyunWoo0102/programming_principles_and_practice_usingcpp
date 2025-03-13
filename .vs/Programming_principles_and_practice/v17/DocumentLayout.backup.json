@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\",
+  "WorkspaceRootPath": "C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Programming_principles_and_practice\\Programming_principles_and_practice.vcxproj|C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\my_caclulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Programming_principles_and_practice\\Programming_principles_and_practice.vcxproj|solutionrelative:Programming_principles_and_practice\\my_caclulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Ch6\\Programming_principles_and_practice.vcxproj|C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\ex_06_09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Ch6\\Programming_principles_and_practice.vcxproj|solutionrelative:Ch6\\ex_06_09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Programming_principles_and_practice\\Programming_principles_and_practice.vcxproj|C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\ex_06_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Programming_principles_and_practice\\Programming_principles_and_practice.vcxproj|solutionrelative:Programming_principles_and_practice\\ex_06_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Ch6\\Programming_principles_and_practice.vcxproj|C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\ex_06_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Ch6\\Programming_principles_and_practice.vcxproj|solutionrelative:Ch6\\ex_06_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8986E0B-F59A-4A95-9000-71E63A3D9B2F}|example_library\\example_library.vcxproj|C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\calculator01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D8986E0B-F59A-4A95-9000-71E63A3D9B2F}|example_library\\example_library.vcxproj|solutionrelative:Programming_principles_and_practice\\calculator01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Ch6\\Programming_principles_and_practice.vcxproj|C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\ex_06_08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Ch6\\Programming_principles_and_practice.vcxproj|solutionrelative:Ch6\\ex_06_08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8986E0B-F59A-4A95-9000-71E63A3D9B2F}|example_library\\example_library.vcxproj|C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\calculator00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D8986E0B-F59A-4A95-9000-71E63A3D9B2F}|example_library\\example_library.vcxproj|solutionrelative:Programming_principles_and_practice\\calculator00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8986E0B-F59A-4A95-9000-71E63A3D9B2F}|example_library\\example_library.vcxproj|C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\caculator02buggy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D8986E0B-F59A-4A95-9000-71E63A3D9B2F}|example_library\\example_library.vcxproj|solutionrelative:Programming_principles_and_practice\\caculator02buggy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Ch6\\Programming_principles_and_practice.vcxproj|C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\my_caclulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A721C09-1D49-47FA-B344-00610A41BAA0}|Ch6\\Programming_principles_and_practice.vcxproj|solutionrelative:Ch6\\my_caclulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "calculator01.cpp",
-              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\calculator01.cpp",
-              "RelativeDocumentMoniker": "Programming_principles_and_practice\\calculator01.cpp",
-              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\calculator01.cpp",
-              "RelativeToolTip": "Programming_principles_and_practice\\calculator01.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ex_06_09.cpp",
+              "DocumentMoniker": "C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\ex_06_09.cpp",
+              "RelativeDocumentMoniker": "Ch6\\ex_06_09.cpp",
+              "ToolTip": "C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\ex_06_09.cpp*",
+              "RelativeToolTip": "Ch6\\ex_06_09.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T13:07:42.115Z",
+              "WhenOpened": "2025-03-13T01:34:29.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "calculator00.cpp",
-              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\calculator00.cpp",
-              "RelativeDocumentMoniker": "Programming_principles_and_practice\\calculator00.cpp",
-              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\calculator00.cpp",
-              "RelativeToolTip": "Programming_principles_and_practice\\calculator00.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Title": "my_caclulator.cpp",
+              "DocumentMoniker": "C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\my_caclulator.cpp",
+              "RelativeDocumentMoniker": "Ch6\\my_caclulator.cpp",
+              "ToolTip": "C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\my_caclulator.cpp",
+              "RelativeToolTip": "Ch6\\my_caclulator.cpp",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAswKMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T13:07:38.99Z",
+              "WhenOpened": "2025-03-13T01:31:43.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "caculator02buggy.cpp",
-              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\caculator02buggy.cpp",
-              "RelativeDocumentMoniker": "Programming_principles_and_practice\\caculator02buggy.cpp",
-              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\caculator02buggy.cpp",
-              "RelativeToolTip": "Programming_principles_and_practice\\caculator02buggy.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ex_06_08.cpp",
+              "DocumentMoniker": "C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\ex_06_08.cpp",
+              "RelativeDocumentMoniker": "Ch6\\ex_06_08.cpp",
+              "ToolTip": "C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\ex_06_08.cpp",
+              "RelativeToolTip": "Ch6\\ex_06_08.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswFMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T13:07:33.953Z",
+              "WhenOpened": "2025-03-13T01:30:30.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ex_06_04.cpp",
-              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\ex_06_04.cpp",
-              "RelativeDocumentMoniker": "Programming_principles_and_practice\\ex_06_04.cpp",
-              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\ex_06_04.cpp",
-              "RelativeToolTip": "Programming_principles_and_practice\\ex_06_04.cpp",
-              "ViewState": "AgIAAC4AAAAAAAAAAAA1wHQAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\ex_06_04.cpp",
+              "RelativeDocumentMoniker": "Ch6\\ex_06_04.cpp",
+              "ToolTip": "C:\\Users\\hyunwoo\\source\\repos\\Programming_principles_and_practice\\Ch6\\ex_06_04.cpp",
+              "RelativeToolTip": "Ch6\\ex_06_04.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAI8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T13:06:35.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "my_caclulator.cpp",
-              "DocumentMoniker": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\my_caclulator.cpp",
-              "RelativeDocumentMoniker": "Programming_principles_and_practice\\my_caclulator.cpp",
-              "ToolTip": "C:\\Users\\rlagu\\source\\repos\\programming_principles_and_practice_usingcpp\\Programming_principles_and_practice\\my_caclulator.cpp",
-              "RelativeToolTip": "Programming_principles_and_practice\\my_caclulator.cpp",
-              "ViewState": "AgIAAIMAAAAAAAAAAAA0wKMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T05:54:16.751Z",
+              "WhenOpened": "2025-03-13T01:25:31.814Z",
               "EditorCaption": ""
             }
           ]
